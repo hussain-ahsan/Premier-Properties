@@ -1,0 +1,11 @@
+/public/css
+composer.lock
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+.idea
+/public/uploads
+storage/debugbar/

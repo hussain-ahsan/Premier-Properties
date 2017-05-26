@@ -1,0 +1,153 @@
+table.associatedCompanyTable {
+    width: 100%;
+}
+
+table.associatedCompanyTable th,
+table.associatedCompanyTable td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+table.associatedCompanyTable th,
+table.associatedCompanyTable td {
+    padding: 5px;
+    text-align: center;
+}
+
+table.associatedCompanyTable tr:nth-child(even) {
+    background-color: #eee;
+}
+
+table.associatedCompanyTable tr:nth-child(odd) {
+    background-color: #fff;
+}
+
+table.associatedCompanyTable th {
+    background-color: black;
+    color: white;
+}
+
+.crossTr {
+    color: red;
+    margin-right: 6px;
+    font-size: 1.3em;
+}
+
+.font-size-1-3 {
+    font-size: 1.3em;
+}
+
+.associateCompanyTableHeader {
+    background: lightgray none repeat scroll 0 0;
+    color: black;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+.errorMessage {
+    display: none;
+    margin-left: 0px;
+    width: 72%;
+}
+
+.associatedCompaniesTable {
+    width: 95%;
+    display: none;
+}
+
+.txtAreaDiv {
+    margin-left: 40px
+}
+
+.txtArea {
+    resize: none;
+    width: 365px;
+    height: 100px;
+}
+
+.p-0-m-0-l {
+    margin-left: 0px;
+    padding-left: 0px
+}
+
+.m-t-30 {
+    margin-top: 30px
+}
+
+.p-l-p-r-0 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.sampleImg {
+    width: 75px;
+    height: 75px;
+    float: right;
+    margin-right: 10%;
+}
+
+#imagePreview {
+    width: 75px;
+    height: 75px;
+    background-position: center center;
+    background-size: cover;
+    -webkit-box-shadow: 0 0 1px 1px rgba(0, 0, 0, .3);
+    display: inline-block;
+    float: right;
+    margin-right: 10%;
+}
+
+.uploadImg {
+    text-decoration: underline;
+    color: rgb(11, 0, 128);
+    cursor: pointer
+}
+
+.m-t-25 {
+    margin-top: 25px
+}
+
+.m-t-p-t-0 {
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.displayNone {
+    display: none !important;
+}
+
+.p-l-0 {
+    padding-left: 0px;
+}
+
+.p-r-0 {
+    padding-right: 0px;
+}
+
+.p-img {
+    margin-bottom: 5px;
+    margin-top: 4px;
+    width: 265px;
+}
+
+.f-2 {
+    font-size: 2.0em;
+}
+
+.p-status {
+    margin-top: 120px;
+    margin-bottom: 6px;
+}
+
+.p-main {
+    cursor: pointer;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-left: 7px;
+}
+
+.m-t-0 {
+    margin-top: 0px;
+}
